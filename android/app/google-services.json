@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948802049229",
+    "firebase_url": "https://sanitizationapp.firebaseio.com",
+    "project_id": "sanitizationapp",
+    "storage_bucket": "sanitizationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948802049229:android:0404063c37164f51e00584",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948802049229-c5parst3v1g6vt7nao65m20ecgeplg2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMuJvs_55B9_4g_B7_Rfl5EIZfWFZI9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948802049229-c5parst3v1g6vt7nao65m20ecgeplg2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
