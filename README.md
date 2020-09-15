@@ -1,5 +1,5 @@
 # SanitizationApp
-Flutter app to prevent covid19 effects
+This is a Flutter app built to ensure minimum risk of covid-19.
 
 ---
 
